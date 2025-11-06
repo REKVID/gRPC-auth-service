@@ -1,22 +1,5 @@
 package store
 
-import(
-	"gorm.io/driver/postgres"
-	"gorm.io/gorm"
-)
-
-
-var User struct {
-	ID        uint   `gorm:"primaryKey"`
-	Email     string `gorm:"unique"`
-	Password  string
-}
-
-var DB *gorm.DB
-
-
-package store
-
 import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
