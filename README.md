@@ -1,7 +1,11 @@
 
 # Authentication Service
 
-project demonstrating a microservices authentication system built with gRPC and HTTP Gateway. This project implements user registration and login functionality with JWT token-based authentication.
+
+
+<small>I want to sleep so the README will be completely written by copilot and won't even be verified.</small>
+
+Project demonstrating a microservices authentication system built with gRPC and HTTP Gateway. This project implements user registration and login functionality with JWT token-based authentication.
 
 ## Overview
 
